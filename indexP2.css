@@ -1,0 +1,140 @@
+footer {
+    background: #00458e;
+    color: white;
+    height: 5cm;
+    text-align: center;
+
+}
+
+
+
+body {
+    background-color: whitesmoke;
+}
+
+.foot1 {
+    background: #00458e;
+    color: white;
+    height: 7cm;
+    text-align: center;
+}
+
+footer {
+    background: #00458e;
+    color: white;
+    height: 5cm;
+    text-align: center;
+
+}
+
+.foot2 {
+    font-size: 25px;
+}
+
+.title5 {
+    font-size: 35px;
+    text-align: center;
+    font-family: "Trirong", sans-serif;
+}
+
+
+hr {
+    border-width: thick;
+}
+
+.title6 {
+    position: relative;
+    top: -3.9cm;
+    text-align: center;
+    font-family: "Trirong", sans-serif;
+
+}
+
+.title7 {
+    position: relative;
+    top: -4.9cm;
+    text-align: center;
+    font-family: "Trirong", sans-serif;
+}
+
+.hr1 {
+    position: relative;
+    top: -0.5cm;
+}
+
+.hr2 {
+    position: relative;
+    top: -0.4cm;
+}
+
+.img6 {
+    height: 3cm;
+    width: 3cm;
+    position: relative;
+    top: -0.6cm;
+}
+
+.text1 {
+    position: relative;
+    width: 10000px;
+    height: 200px;
+    top: -4.6cm;
+    font-size: 20px;
+    font-family: "Trirong", sans-serif;
+
+}
+
+p.text1::first-letter {
+    color: #00458e;
+    float: left;
+    font-size: 2.7em;
+    margin: 0 .1em 0 0;
+    line-height: 0.85;
+    font-weight: bolder;
+}
+
+.text2 {
+    position: relative;
+    top: -8.4cm;
+    font-size: 20px;
+    font-family: "Trirong", sans-serif;
+    float: right;
+    width: fit-content;
+    height: fit-content;
+
+}
+
+.text3 {
+    position: relative;
+    top: -5.2cm;
+    font-size: 20px;
+    font-family: "Trirong", sans-serif;
+
+
+
+}
+
+.list2 {
+    position: relative;
+    top: -1.3cm;
+    right: -4.8cm;
+    font-size: 20px;
+    font-family: "Trirong", sans-serif;
+}
+
+.title8 {
+    position: relative;
+    top: 1cm;
+    right: -8.3cm;
+    font-size: 20px;
+    font-family: "Trirong", sans-serif;
+}
+
+.list3 {
+
+    position: relative;
+    top: 1.5cm;
+    right: -13.5cm;
+    font-size: 20px;
+    font-family: "Trirong", sans-serif;
+}
